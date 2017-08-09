@@ -1,0 +1,18 @@
+{
+    "name": "yixiaozhi/chat-server",
+    "description": "chat server",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zuoshaolove",
+            "email": "yixiaozhi520@foxmail.com"
+        }
+    ],
+    "require": {
+        "workerman/workerman": "^3.4",
+        "workerman/channel": "^1.0",
+        "workerman/gateway-worker": "^3.0",
+        "workerman/gatewayclient": "^3.0"
+    }
+}
